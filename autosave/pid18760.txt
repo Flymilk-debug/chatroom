@@ -1,1 +1,0 @@
-{'C:\\Users\\xingc\\.spyder-py3\\main.py': 'C:\\Users\\xingc\\.spyder-py3\\autosave\\main.py'}
